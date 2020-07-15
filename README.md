@@ -30,3 +30,4 @@ also, you need ```pip install``` or ```conda install``` package : [cgal](https:/
   after get the visualhull obj file, simply use the script ```python scripts.py --visualhull /your visualhullobj file --mesh /your original mesh --index_path the headback indexing file --output_dir output ```
 
 ## Additional notes
+if you find any bugs or unclear stuff, please mail [yuminggu@usc.edu](mailto:yuminggu@usc.edu)
