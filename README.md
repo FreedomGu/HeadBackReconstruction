@@ -6,13 +6,13 @@ The image on the left is the identity-preserved head back, right is the reconstr
 ### Male
 <p align='center'>
   <img src='gif/cam06.png' width='400' length = '600'/>
-  <img src='gif/owen.gif' width='400' />
+  <img src='gif/owen.gif' width='400' length='400'/>
 </p>
 
 ### Female with long hair
 <p align='center'>
   <img src='gif/mingming.png' width='400' length = '600'/>
-  <img src='gif/mingming.gif' width='400'/>
+  <img src='gif/mingming.gif' width='400' length='400'/>
 </p>
 ## Installation
 
