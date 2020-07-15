@@ -1,0 +1,867 @@
+{
+    "version": [
+        "1",
+        "0",
+        "0"
+    ],
+    "featuresFolders": [
+        "..\\FeatureExtraction"
+    ],
+    "matchesFolders": [
+        "..\\FeatureMatching"
+    ],
+    "views": [
+        {
+            "viewId": "0",
+            "poseId": "0",
+            "intrinsicId": "0",
+            "resectionId": "17",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam00.png",
+            "width": "2048",
+            "height": "2048",
+            "metadata": ""
+        },
+        {
+            "viewId": "1",
+            "poseId": "1",
+            "intrinsicId": "0",
+            "resectionId": "15",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam01.png",
+            "width": "2048",
+            "height": "2048",
+            "metadata": ""
+        },
+        {
+            "viewId": "2",
+            "poseId": "2",
+            "intrinsicId": "0",
+            "resectionId": "18",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam02.png",
+            "width": "2048",
+            "height": "2048",
+            "metadata": ""
+        },
+        {
+            "viewId": "3",
+            "poseId": "3",
+            "intrinsicId": "0",
+            "resectionId": "19",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam03.png",
+            "width": "2048",
+            "height": "2048",
+            "metadata": ""
+        },
+        {
+            "viewId": "4",
+            "poseId": "4",
+            "intrinsicId": "0",
+            "resectionId": "13",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam04.png",
+            "width": "2048",
+            "height": "2048",
+            "metadata": ""
+        },
+        {
+            "viewId": "5",
+            "poseId": "5",
+            "intrinsicId": "0",
+            "resectionId": "16",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam05.png",
+            "width": "2048",
+            "height": "2048",
+            "metadata": ""
+        },
+        {
+            "viewId": "6",
+            "poseId": "6",
+            "intrinsicId": "0",
+            "resectionId": "20",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam06.png",
+            "width": "2048",
+            "height": "2048",
+            "metadata": ""
+        },
+        {
+            "viewId": "7",
+            "poseId": "7",
+            "intrinsicId": "1",
+            "resectionId": "8",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam07.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "8",
+            "poseId": "8",
+            "intrinsicId": "1",
+            "resectionId": "5",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam08.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "9",
+            "poseId": "9",
+            "intrinsicId": "1",
+            "resectionId": "1",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam09.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "10",
+            "poseId": "10",
+            "intrinsicId": "1",
+            "resectionId": "11",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam10.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "11",
+            "poseId": "11",
+            "intrinsicId": "1",
+            "resectionId": "14",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam11.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "12",
+            "poseId": "12",
+            "intrinsicId": "1",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam12.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "13",
+            "poseId": "13",
+            "intrinsicId": "1",
+            "resectionId": "12",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam13.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "14",
+            "poseId": "14",
+            "intrinsicId": "1",
+            "resectionId": "9",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam14.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "15",
+            "poseId": "15",
+            "intrinsicId": "2",
+            "resectionId": "2",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam15.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "16",
+            "poseId": "16",
+            "intrinsicId": "2",
+            "resectionId": "10",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam16.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "17",
+            "poseId": "17",
+            "intrinsicId": "3",
+            "resectionId": "4",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam17.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "18",
+            "poseId": "18",
+            "intrinsicId": "3",
+            "resectionId": "3",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam18.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "19",
+            "poseId": "19",
+            "intrinsicId": "3",
+            "resectionId": "7",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam19.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "20",
+            "poseId": "20",
+            "intrinsicId": "2",
+            "resectionId": "0",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam20.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "21",
+            "poseId": "21",
+            "intrinsicId": "3",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam21.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        },
+        {
+            "viewId": "22",
+            "poseId": "22",
+            "intrinsicId": "2",
+            "resectionId": "6",
+            "path": "\\\\vgldb1\\data\\LightStageFaceDB\\Processing\\StaticScans\\20190108_MingmingHea\\BaseMeshReconstruction\\CalibrationFrame\\Calibration\\cam22.png",
+            "width": "4096",
+            "height": "3008",
+            "metadata": ""
+        }
+    ],
+    "intrinsics": [
+        {
+            "intrinsicId": "0",
+            "width": "2048",
+            "height": "2048",
+            "type": "radial1",
+            "serialNumber": "",
+            "pxInitialFocalLength": "9087",
+            "pxFocalLength": "9496",
+            "principalPoint": [
+                "1023.8288342993616",
+                "1018.6019253969325"
+            ],
+            "distortionParams": [
+                "0.26908900360112847"
+            ],
+            "locked": "false"
+        },
+        {
+            "intrinsicId": "1",
+            "width": "4096",
+            "height": "3008",
+            "type": "radial1",
+            "serialNumber": "",
+            "pxInitialFocalLength": "14462",
+            "pxFocalLength": "15145.921017197987",
+            "principalPoint": [
+                "2053.5937717050601",
+                "1498.5717768333184"
+            ],
+            "distortionParams": [
+                "0.053992831686659928"
+            ],
+            "locked": "false"
+        },
+        {
+            "intrinsicId": "2",
+            "width": "4096",
+            "height": "3008",
+            "type": "radial1",
+            "serialNumber": "",
+            "pxInitialFocalLength": "14462",
+            "pxFocalLength": "15281",
+            "principalPoint": [
+                "2016.5182528049793",
+                "1511.6563694742345"
+            ],
+            "distortionParams": [
+                "0.040054140476364387"
+            ],
+            "locked": "false"
+        },
+        {
+            "intrinsicId": "3",
+            "width": "4096",
+            "height": "3008",
+            "type": "radial1",
+            "serialNumber": "",
+            "pxInitialFocalLength": "14462",
+            "pxFocalLength": "15281",
+            "principalPoint": [
+                "2005.7521751472705",
+                "1519.4981652557944"
+            ],
+            "distortionParams": [
+                "0.030961786062863227"
+            ],
+            "locked": "false"
+        }
+    ],
+    "poses": [
+        {
+            "poseId": "0",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.025804000458599874",
+                        "-0.96342014917726626",
+                        "0.26675038841506182",
+                        "-0.90433386985090736",
+                        "-0.091226606998005944",
+                        "-0.41696277773455237",
+                        "0.42604507437689632",
+                        "-0.25199071874750734",
+                        "-0.8688994603890029"
+                    ],
+                    "center": [
+                        "-36.420552918251673",
+                        "63.201181565196677",
+                        "119.5070590738766"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "1",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.11589517167862634",
+                        "0.95494240300232625",
+                        "-0.27322759035229999",
+                        "0.90167153560456459",
+                        "-0.01422721367260249",
+                        "-0.43218749203513596",
+                        "-0.41660142950077406",
+                        "-0.29644998454926036",
+                        "-0.85939551755792598"
+                    ],
+                    "center": [
+                        "38.412569790054285",
+                        "64.372436989831769",
+                        "118.12566536872711"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "2",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.098079647701558165",
+                        "-0.78816671647432635",
+                        "0.60759658470799283",
+                        "-0.45200416669447763",
+                        "-0.57921274015657875",
+                        "-0.67838398782042231",
+                        "0.88660736292767739",
+                        "-0.20810052542554197",
+                        "-0.41306362139511188"
+                    ],
+                    "center": [
+                        "-82.81234834219606",
+                        "96.044109322597919",
+                        "55.648429938260435"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "3",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.068892185346945328",
+                        "-0.99512799580419697",
+                        "-0.070527574499936629",
+                        "-0.624606253466365",
+                        "0.098149736307141078",
+                        "-0.77474747975940517",
+                        "0.77789516962688077",
+                        "-0.0093220828981887272",
+                        "-0.62832491900417786"
+                    ],
+                    "center": [
+                        "9.8489940595475787",
+                        "107.14048840706498",
+                        "84.157784116108814"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "4",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.1765655493166359",
+                        "0.77161791742002961",
+                        "-0.61108951579199111",
+                        "0.63468300213697648",
+                        "-0.38528306590290523",
+                        "-0.66987644079102582",
+                        "-0.75233110635737355",
+                        "-0.50612523019983302",
+                        "-0.42170506015728193"
+                    ],
+                    "center": [
+                        "80.517690815437561",
+                        "93.939832259908016",
+                        "54.773481964753927"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "5",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.34643477019690011",
+                        "-0.12540862599877886",
+                        "-0.92965349809685505",
+                        "0.93582624245246393",
+                        "0.022361806066432427",
+                        "-0.35175160776711389",
+                        "0.064901417056357547",
+                        "-0.99185312730995934",
+                        "0.10961377609375117"
+                    ],
+                    "center": [
+                        "123.22961850780072",
+                        "52.836070158341826",
+                        "-14.384447219463375"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "6",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.32323876992999567",
+                        "0.13445849067493779",
+                        "0.93671639886337033",
+                        "-0.9282921022431897",
+                        "0.14722597830875842",
+                        "-0.34146490921315598",
+                        "-0.18382184453177275",
+                        "-0.97992113233486666",
+                        "0.077227610842821315"
+                    ],
+                    "center": [
+                        "-124.836025754882",
+                        "51.749506294271484",
+                        "-10.372281284271807"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "7",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.35213106551148854",
+                        "-0.79682634765787452",
+                        "-0.4909903098636017",
+                        "-0.75153266211849179",
+                        "-0.071952828851625766",
+                        "0.6557602063173259",
+                        "-0.5578551518726319",
+                        "0.59990879481672943",
+                        "-0.57350420001138891"
+                    ],
+                    "center": [
+                        "68.137093473193275",
+                        "-88.038867925473198",
+                        "79.237800183646726"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "8",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.010998038417637634",
+                        "-0.99984876104497289",
+                        "-0.013472126327956302",
+                        "-0.99957724628558298",
+                        "0.011355690802102192",
+                        "-0.026765219867179807",
+                        "0.026914157224323082",
+                        "0.013172066020154083",
+                        "-0.99955096159108681"
+                    ],
+                    "center": [
+                        "1.331282050631529",
+                        "6.4829939195576713",
+                        "137.1546528092903"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "9",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.25238696795349325",
+                        "0.76849043976627174",
+                        "-0.58798236571778562",
+                        "0.94684860345177491",
+                        "-0.070893244004933603",
+                        "0.31377040984751969",
+                        "0.19944558292593506",
+                        "-0.63592184420909692",
+                        "-0.74553663056152741"
+                    ],
+                    "center": [
+                        "79.609209533879579",
+                        "-40.529990315606057",
+                        "103.50621273037504"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "10",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.41882523178129821",
+                        "0.78723455730400582",
+                        "0.45260046068216464",
+                        "0.73302523270736342",
+                        "-0.0010792687440217552",
+                        "0.68020059055641391",
+                        "0.53596588831534586",
+                        "0.61665272801257021",
+                        "-0.57661076958117796"
+                    ],
+                    "center": [
+                        "-63.405920243668561",
+                        "-90.382397438132941",
+                        "78.628746507479107"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "11",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.028476089870355881",
+                        "0.99946395083833117",
+                        "-0.016153119832680002",
+                        "0.68535816511351766",
+                        "0.031285031695889365",
+                        "0.72753380148555269",
+                        "0.72764915846713407",
+                        "0.0096466453454401163",
+                        "-0.68588165481783514"
+                    ],
+                    "center": [
+                        "1.3589265461629623",
+                        "-94.681645898145277",
+                        "95.23948978724431"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "12",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.52304149341708173",
+                        "-0.41070108420278811",
+                        "-0.74682810311254555",
+                        "-0.82001269128756438",
+                        "0.0035680095207037523",
+                        "0.57233421655129613",
+                        "-0.23239359348173627",
+                        "0.91176306612119096",
+                        "-0.33864631840008441"
+                    ],
+                    "center": [
+                        "101.17947252164269",
+                        "-75.506378369686317",
+                        "47.051197878939675"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "13",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.54440040450233085",
+                        "0.41181760774807347",
+                        "0.73077661260220417",
+                        "0.81075704066872722",
+                        "0.034848154899187578",
+                        "0.58434461331153709",
+                        "0.21517718416176523",
+                        "0.91059972767883945",
+                        "-0.35285537457638017"
+                    ],
+                    "center": [
+                        "-99.71972159638392",
+                        "-77.507816642821439",
+                        "49.624449849478744"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "14",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.17385538899520425",
+                        "-0.81861075024500185",
+                        "0.547403638369934",
+                        "-0.94157773805616873",
+                        "0.024640256518396464",
+                        "0.33589316896259847",
+                        "-0.28845392511518264",
+                        "-0.57381991717090441",
+                        "-0.76650181718220478"
+                    ],
+                    "center": [
+                        "-76.687388772705333",
+                        "-44.063561775401439",
+                        "106.48298746853825"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "15",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.011857523754944477",
+                        "-0.97095016505636544",
+                        "-0.23898781581373052",
+                        "-0.99980590200749186",
+                        "-0.0077516955694273415",
+                        "-0.018112689661798576",
+                        "0.015733958223747596",
+                        "0.23915620040637772",
+                        "-0.9708536214928587"
+                    ],
+                    "center": [
+                        "24.857569757482821",
+                        "5.7349409846720647",
+                        "106.79400478092549"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "16",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.02649207346940835",
+                        "0.39916068445557473",
+                        "0.91649818222855639",
+                        "0.99825950965082921",
+                        "0.037759603581934531",
+                        "-0.0453008137787968",
+                        "-0.052688911878852857",
+                        "0.91610313847420743",
+                        "-0.39746561894424298"
+                    ],
+                    "center": [
+                        "-122.84853570974113",
+                        "9.9128190747720453",
+                        "55.255474298537237"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "17",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.057882848170754508",
+                        "-0.97927148631480043",
+                        "0.19410546612200955",
+                        "-0.99821749648078684",
+                        "0.053940454997414455",
+                        "-0.025539323293747154",
+                        "0.014539793921235444",
+                        "-0.19523776121814473",
+                        "-0.98064815861105636"
+                    ],
+                    "center": [
+                        "-22.36741390474883",
+                        "6.4065768635755802",
+                        "107.62605567906937"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "18",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.044545131959583983",
+                        "-0.97458513535161195",
+                        "-0.21954394815248984",
+                        "-0.91021696984170719",
+                        "-0.050978502503427892",
+                        "0.41098206785051916",
+                        "-0.41172903593368793",
+                        "0.21813987767986809",
+                        "-0.88481308463139774"
+                    ],
+                    "center": [
+                        "26.856111097610608",
+                        "-47.798624937572754",
+                        "110.65108298173342"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "19",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "-0.16607797324753015",
+                        "0.96741725065609341",
+                        "0.19110722104357539",
+                        "0.90785079969279192",
+                        "0.074335411971735876",
+                        "0.4126513928537634",
+                        "0.38500004194694765",
+                        "0.24202915043440093",
+                        "-0.89061599920552281"
+                    ],
+                    "center": [
+                        "-23.716921537658706",
+                        "-48.683418319010933",
+                        "111.52840759603177"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "20",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.0038634226135935701",
+                        "0.78735770470081223",
+                        "-0.61648432162868261",
+                        "0.99843139436610895",
+                        "-0.0374716561936074",
+                        "-0.041600789971537822",
+                        "-0.055855391054549869",
+                        "-0.61535657941585087",
+                        "-0.78626741981323867"
+                    ],
+                    "center": [
+                        "65.570509427947044",
+                        "7.4757989804596008",
+                        "85.939936061570407"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "21",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.034666573928455013",
+                        "-0.38138011800050936",
+                        "-0.92376806301472691",
+                        "-0.99800770379542914",
+                        "0.035544177740756862",
+                        "-0.052127100376953561",
+                        "0.052714815915817087",
+                        "0.92373471138777286",
+                        "-0.37938810097354236"
+                    ],
+                    "center": [
+                        "123.80134908298567",
+                        "11.956087874333051",
+                        "52.628231554885048"
+                    ]
+                },
+                "locked": "false"
+            }
+        },
+        {
+            "poseId": "22",
+            "pose": {
+                "transform": {
+                    "rotation": [
+                        "0.060008364112865697",
+                        "-0.80538118814147119",
+                        "0.58971191104159471",
+                        "-0.9945610322103684",
+                        "-0.098624873371897404",
+                        "-0.033488618380341381",
+                        "0.085131365812752657",
+                        "-0.58449488974687336",
+                        "-0.8069190631126808"
+                    ],
+                    "center": [
+                        "-62.986543516882591",
+                        "7.4554954941207967",
+                        "87.612069258983013"
+                    ]
+                },
+                "locked": "false"
+            }
+        }
+    ]
+}
