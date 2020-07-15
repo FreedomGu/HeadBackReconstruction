@@ -19,7 +19,7 @@ The image on the left is the identity-preserved head back, right is the reconstr
 
 The first part to reconstruct visualhull needs ```matlab``` and the second part needs ```python3```.
 
-also, you need ```pip install``` or ```conda install``` package : cgal[instructions](https://github.com/CGAL)
+also, you need ```pip install``` or ```conda install``` package : [cgal](https://github.com/CGAL)
 
 ## How to use
   ### matlab 
